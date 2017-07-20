@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Fish Zhe'' Blog</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2017-07-20T11:39:50-07:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>FishZhe</name>
+  <uri>http://localhost:4000/</uri>
+  <email>fishzhe@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Twilio 观后感]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html" />
+  <id>http://localhost:4000/2016/05/22/Twilio-观后感</id>
+  <published>2016-05-22T22:11:00-07:00</published>
+  <updated>2016-05-22T22:11:00-07:00</updated>
+  <author>
+    <name>FishZhe</name>
+    <uri>http://localhost:4000</uri>
+    <email>fishzhe@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;多亏老板开恩，有幸参加了Twilio今年的开发者大会（可惜Google大会太贵了！！）。Twilio是一个为各个公司提供发送短信，打电话服务API的科技为核心的startup。&lt;/p&gt;
+
+&lt;p&gt;Twilio的API本身还是很方便的，不用做过多配置，直接就可以拿来编程。 Jeff 是
+Twilio的创始人。他是个矮胖矮胖略微秃头的CEO。大背头像极了王刚版的和珅。 没有打太多的招呼，就直奔主题：Twilio提供了很多新的功能，Twilio很牛逼，Twilio跟很多科技巨头都有交集。也许是刚开始不适应，第一天他的演讲并没有给我留下太多印象。&lt;/p&gt;
+
+&lt;p&gt;反倒是第二天，Twilio的一个partener， Nancy的一番演讲十分感人。Nancy是一个类
+似于热线电话公司的创始人。不同的是，她的公司用短信为青少年提供帮助。也许有些
+青少年比较焦虑或者自闭，甚至自杀倾向，他们都可以给Nancy提供的热线发送短信，Nancy的公司会为这些青少年提供劝解安慰， 对于特别严重的情况，他们平均会在1份40
+秒内采取措施。&lt;/p&gt;
+
+&lt;p&gt;曾经有一个小姑娘，在卧室里握着枪，给Nancy的热心发了短信。这个小姑娘非常
+焦虑，因为她的妈妈不在家，而他妈妈的男朋友又一直对她性骚扰。她实在找不到活下
+去的理由了。Nancy的热线在了解到这个情况后，马上联系了911。 一周之后，小女孩
+儿可以安全的住在自己家了，而她那个变态继父则“光荣”的住进了监狱。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nancy.jpg&quot; alt=&quot;Nancy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我一直比较赞同一个观点：救急不救穷。但是通过这个故事，我觉得，我们真正要
+救的&lt;strong&gt;其实是那些没有自我保护或者自救能力的人&lt;/strong&gt;，例如青少年，老人，或者残疾人
+。他们的无助是身不由己的。而很多街上的四肢健全的乞丐，或者所谓的穷人，四肢健
+全，有能力自给自足，却不努力，这样的人没什么可同情的。青少年们，老年人，残疾
+人他们并没有自己选择成为弱势群体，如果我们提供适当的帮助，拯救的也许不仅仅是
+一条生命，而是一个希望, 一个未来。&lt;/p&gt;
+
+&lt;p&gt;此外，给青少年提供一个良好的环境也尤为重要。试想一个人如果从小生活在一个
+三观不正的环境中，收到的全是负面的信息，那他们怎么可能成为一个正直而上进的人
+？但是如果强行把他们从自己的生活环境中剥离出来，让他们离开自己的父母，又何尝
+不是一个残酷的行为？当然这是一个比较极端的做法。另一个缓慢的渐进式的做法，则
+只能是逐渐提高整个社会的文化，道德修养。但这又谈何容易，而且，提升修养过程中
+那些没有收到正面信息的青少年，又由谁来负责？&lt;/p&gt;
+
+&lt;p&gt;对于上面的问题，我没有答案。&lt;/p&gt;
+
+&lt;p&gt;另外一个让我感触比较深的一点，是通过听各个公司小型的presentation慢慢感受到的
+。 这些公司不论大小，都会考虑一个问题：&lt;strong&gt;如何全球化&lt;/strong&gt;。相比之下，国内的各种
+所谓的科技公司的眼里，只有过国内那么一点点的市场。诚然，国内市场相对于其他单
+独一个国家来说依然是大不少的，但是相对于整个世界来说，还是不那么大的。为什么
+国内的市场不愿意走出去呢？也许有人会说技术不到家，但是我们已经有了足够承受
+几亿网民同时在线交易的技术。我觉得，也许更重要的原因是，对其他文化的融合与适
+应的问题。国内企业，在国内发展，本身就受到了国家政府的保护，就算怎么竞争，也
+是跟同种族，同文化的人竞争。而当这些公司尝试走出国门，竞争对象来自不同文化，
+游戏规则可能就完全不同。我们长期温室中培养出来的竞争力是明显不够的。&lt;/p&gt;
+
+&lt;p&gt;当然，我这么说也不是说其他国外公司在应对中国文化的时候就做的很完美。最具
+体的一个例子就是google。google明显低估了中国政府对国内的控制有多么强大。这也
+侧面反映了中国市场，是一个比较特殊的市场。因为不少类似于google的公司都在我国
+遭遇到了滑铁卢。政府的意图其实是很明显，也无可厚非的。它就是想在国内互联网
+市场受到国外成熟企业巨大冲击之前，保护好本国企业，使其发展到一定程度之后，再
+迎接外部的挑战。毕竟，未来是互联网的时代，信息安全是个极为重要的方面。任何一
+个有远见的政府，都不会坐视自己的核心数据被一个外来企业垄断。但可能也许正是政
+府过度的保护，让一些国内的企业忽视了外部的威胁。&lt;strong&gt;这些国内企业就好像在一个笼子里争
+一头牛的鬣狗，他们没有看到笼外一群虎视眈眈的狼，正摩亮了牙齿，准备随时打破笼
+子进来争抢这头公牛。&lt;/strong&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html&quot;&gt;Twilio 观后感&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on May 22, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[中文测试]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2016/05/22/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95.html" />
+  <id>http://localhost:4000/2016/05/22/中文测试</id>
+  <published>2016-05-22T21:54:00-07:00</published>
+  <updated>2016-05-22T21:54:00-07:00</updated>
+  <author>
+    <name>FishZhe</name>
+    <uri>http://localhost:4000</uri>
+    <email>fishzhe@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;这篇文章用来测试中文兼容性：&lt;/p&gt;
+
+&lt;p&gt;符号测试： 《》？￥，。‘’“”&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/22/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95.html&quot;&gt;中文测试&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on May 22, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Maven Spring Aop Config]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2016/05/18/maven-spring-aop-config.html" />
+  <id>http://localhost:4000/2016/05/18/maven-spring-aop-config</id>
+  <published>2016-05-18T23:33:00-07:00</published>
+  <updated>2016-05-18T23:33:00-07:00</updated>
+  <author>
+    <name>FishZhe</name>
+    <uri>http://localhost:4000</uri>
+    <email>fishzhe@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Trying to add spring aop to my S2SH practice project. Somehow, my advice can’t be called at all, though my configuration 
+is totally correct.&lt;/p&gt;
+
+&lt;p&gt;After some googling finally find out need to add aspect plugin for maven and dependency.&lt;/p&gt;
+
+&lt;p&gt;Dependency:&lt;/p&gt;
+
+&lt;div class=&quot;language-xml highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;nt&quot;&gt;&amp;lt;dependency&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;groupId&amp;gt;&lt;/span&gt;org.aspectj&lt;span class=&quot;nt&quot;&gt;&amp;lt;/groupId&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;artifactId&amp;gt;&lt;/span&gt;aspectjrt&lt;span class=&quot;nt&quot;&gt;&amp;lt;/artifactId&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;version&amp;gt;&lt;/span&gt;1.8.7&lt;span class=&quot;nt&quot;&gt;&amp;lt;/version&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/dependency&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Plugin:&lt;/p&gt;
+
+&lt;div class=&quot;language-xml highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      &lt;span class=&quot;nt&quot;&gt;&amp;lt;plugin&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;groupId&amp;gt;&lt;/span&gt;org.codehaus.mojo&lt;span class=&quot;nt&quot;&gt;&amp;lt;/groupId&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;artifactId&amp;gt;&lt;/span&gt;aspectj-maven-plugin&lt;span class=&quot;nt&quot;&gt;&amp;lt;/artifactId&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;version&amp;gt;&lt;/span&gt;1.8&lt;span class=&quot;nt&quot;&gt;&amp;lt;/version&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;executions&amp;gt;&lt;/span&gt;
+          &lt;span class=&quot;nt&quot;&gt;&amp;lt;execution&amp;gt;&lt;/span&gt;
+            &lt;span class=&quot;nt&quot;&gt;&amp;lt;goals&amp;gt;&lt;/span&gt;
+              &lt;span class=&quot;nt&quot;&gt;&amp;lt;goal&amp;gt;&lt;/span&gt;compile&lt;span class=&quot;nt&quot;&gt;&amp;lt;/goal&amp;gt;&lt;/span&gt;       &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- use this goal to weave all your main classes --&amp;gt;&lt;/span&gt;
+              &lt;span class=&quot;nt&quot;&gt;&amp;lt;goal&amp;gt;&lt;/span&gt;test-compile&lt;span class=&quot;nt&quot;&gt;&amp;lt;/goal&amp;gt;&lt;/span&gt;  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- use this goal to weave all your test classes --&amp;gt;&lt;/span&gt;
+            &lt;span class=&quot;nt&quot;&gt;&amp;lt;/goals&amp;gt;&lt;/span&gt;
+          &lt;span class=&quot;nt&quot;&gt;&amp;lt;/execution&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;/executions&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;/plugin&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Reference: &lt;a href=&quot;http://www.mojohaus.org/aspectj-maven-plugin/usage.html&quot;&gt;codehaus-mojo document&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/18/maven-spring-aop-config.html&quot;&gt;Maven Spring Aop Config&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[How to set up jekyll in Mac OS]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html" />
+  <id>http://localhost:4000/2015/03/02/how-to-set-up-jekyll</id>
+  <published>2015-03-02T23:09:00-08:00</published>
+  <updated>2015-03-02T23:09:00-08:00</updated>
+  <author>
+    <name>FishZhe</name>
+    <uri>http://localhost:4000</uri>
+    <email>fishzhe@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Bought a new computer recently. And trying to set it up my old blog repository.&lt;/p&gt;
+
+&lt;p&gt;The instruction on Jekyll website is straight forward. Install with an easy command line and you are done.&lt;/p&gt;
+
+&lt;p&gt;However, when I tried to run this command in my Mac terminal, it failed serval time. The error message is:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Operation not permitted - /usr/bin/jekyll&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This error is caused by Apple’s System Integrity Protection. Old ruby gem didn’t handle it well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011&quot;&gt;Jekyll support document&lt;/a&gt; gives us two solutions.&lt;/p&gt;
+
+&lt;p&gt;The first one is install jekyll with a more complex command line, which is not working for me.&lt;/p&gt;
+
+&lt;p&gt;The second solution do give me a clue about installing luby using homebrew.
+ It turns out, homebrew will install a very latest version of ruby.
+  After installing this very latest ruby, I updated my gem with:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo gem update --system
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This command runs smoothly. But when I tried to run&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;It gives me another error message about missing paginate and pygments.
+Solution to this is pretty straight forward, install them:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo gem install jekyll-paginate
+sudo gem install pygments.rb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; all commands start with sudo will require a super user privilege.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html&quot;&gt;How to set up jekyll in Mac OS&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[This is my first post]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/2015/03/02/first-post.html" />
+  <id>http://localhost:4000/2015/03/02/first-post</id>
+  <published>2015-03-02T23:09:00-08:00</published>
+  <updated>2015-03-02T23:09:00-08:00</updated>
+  <author>
+    <name>FishZhe</name>
+    <uri>http://localhost:4000</uri>
+    <email>fishzhe@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This is my first post on github using jekyll and hpstr theme.&lt;/p&gt;
+
+&lt;p&gt;I feel sorry for Jing Chai. She did a good job, but so many people response
+negatively to it.&lt;/p&gt;
+
+&lt;p&gt;Reviewed questions I’ve completed before on Leetcode(leetcode.com). Feels good.
+Can solve them in a short time.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/03/02/first-post.html&quot;&gt;This is my first post&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Welcome to Jekyll!]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/jekyll/update/2015/03/02/welcome-to-jekyll.html" />
+  <id>http://localhost:4000/jekyll/update/2015/03/02/welcome-to-jekyll</id>
+  <published>2015-03-02T13:48:12-08:00</published>
+  <updated>2015-03-02T13:48:12-08:00</updated>
+  <author>
+    <name>FishZhe</name>
+    <uri>http://localhost:4000</uri>
+    <email>fishzhe@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/jekyll/update/2015/03/02/welcome-to-jekyll.html&quot;&gt;Welcome to Jekyll!&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
