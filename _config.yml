@@ -1,1 +1,29 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Fish Zhe'' Blog
+description: Software Engineer. Unix-like system fan. Java. Learner. Runner
+#baseurl: / # the subpath of your site, e.g. /blog/
+#url: / # the base hostname & protocol for your site
+
+owner: 
+ name: FishZhe
+ avatar: avatar.jpg
+ bio: "Master of Computer Science in NJIT. Chinese. Reader. Runner. "
+ email: fishzhe@gmail.com
+# Social networking linkes
+facebook: https://www.facebook.com/profile.php?id=100004276178508
+github: https://github.com/fishzhe
+linkedin: https://www.linkedin.com/in/fishzhe
+twitter_username: Zhe Yu
+github_username:  fishzhe
+
+# Build settings
+timezone: America/Los_Angeles
+future: true
+highlighter: rouge
+markdown: kramdown
+
+paginate: 5
+#Gems
+plugins: [jekyll-paginate]
+
+#theme: jekyll-theme-slate
