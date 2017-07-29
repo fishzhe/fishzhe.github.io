@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Fish Zhe'' Blog</title>
+<title type="text">Fish Zhe's Blog</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-07-20T11:39:50-07:00</updated>
+<updated>2017-07-28T17:06:14-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>FishZhe</name>
@@ -25,14 +25,18 @@
     <email>fishzhe@gmail.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;多亏老板开恩，有幸参加了Twilio今年的开发者大会（可惜Google大会太贵了！！）。Twilio是一个为各个公司提供发送短信，打电话服务API的科技为核心的startup。&lt;/p&gt;
+    &lt;p&gt;多亏老板开恩，有幸参加了Twilio今年的开发者大会（可惜Google大会太贵了！！）。
+  Twilio是一个为各个公司提供发送短信，打电话服务API的科技为核心的startup。&lt;/p&gt;
 
 &lt;p&gt;Twilio的API本身还是很方便的，不用做过多配置，直接就可以拿来编程。 Jeff 是
-Twilio的创始人。他是个矮胖矮胖略微秃头的CEO。大背头像极了王刚版的和珅。 没有打太多的招呼，就直奔主题：Twilio提供了很多新的功能，Twilio很牛逼，Twilio跟很多科技巨头都有交集。也许是刚开始不适应，第一天他的演讲并没有给我留下太多印象。&lt;/p&gt;
+Twilio的创始人。他是个矮胖矮胖略微秃头的CEO。大背头像极了王刚版的和珅。 没有打太
+多的招呼，就直奔主题：Twilio提供了很多新的功能，Twilio很牛逼，Twilio跟很多科技巨
+头都有交集。也许是刚开始不适应，第一天他的演讲并没有给我留下太多印象。&lt;/p&gt;
 
 &lt;p&gt;反倒是第二天，Twilio的一个partener， Nancy的一番演讲十分感人。Nancy是一个类
 似于热线电话公司的创始人。不同的是，她的公司用短信为青少年提供帮助。也许有些
-青少年比较焦虑或者自闭，甚至自杀倾向，他们都可以给Nancy提供的热线发送短信，Nancy的公司会为这些青少年提供劝解安慰， 对于特别严重的情况，他们平均会在1份40
+青少年比较焦虑或者自闭，甚至自杀倾向，他们都可以给Nancy提供的热线发送短信，Nancy的
+公司会为这些青少年提供劝解安慰， 对于特别严重的情况，他们平均会在1份40
 秒内采取措施。&lt;/p&gt;
 
 &lt;p&gt;曾经有一个小姑娘，在卧室里握着枪，给Nancy的热心发了短信。这个小姑娘非常
@@ -80,7 +84,7 @@ Twilio的创始人。他是个矮胖矮胖略微秃头的CEO。大背头像极�
 子进来争抢这头公牛。&lt;/strong&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html&quot;&gt;Twilio 观后感&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on May 22, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html&quot;&gt;Twilio 观后感&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe's Blog&lt;/a&gt; on May 22, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -101,7 +105,7 @@ Twilio的创始人。他是个矮胖矮胖略微秃头的CEO。大背头像极�
 
 &lt;p&gt;符号测试： 《》？￥，。‘’“”&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/22/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95.html&quot;&gt;中文测试&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on May 22, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/22/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95.html&quot;&gt;中文测试&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe's Blog&lt;/a&gt; on May 22, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -153,7 +157,7 @@ is totally correct.&lt;/p&gt;
 
 &lt;p&gt;Reference: &lt;a href=&quot;http://www.mojohaus.org/aspectj-maven-plugin/usage.html&quot;&gt;codehaus-mojo document&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/18/maven-spring-aop-config.html&quot;&gt;Maven Spring Aop Config&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/18/maven-spring-aop-config.html&quot;&gt;Maven Spring Aop Config&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe's Blog&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -207,7 +211,7 @@ sudo gem install pygments.rb
 
 &lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; all commands start with sudo will require a super user privilege.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html&quot;&gt;How to set up jekyll in Mac OS&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html&quot;&gt;How to set up jekyll in Mac OS&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe's Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -232,39 +236,7 @@ negatively to it.&lt;/p&gt;
 &lt;p&gt;Reviewed questions I’ve completed before on Leetcode(leetcode.com). Feels good.
 Can solve them in a short time.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/03/02/first-post.html&quot;&gt;This is my first post&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Welcome to Jekyll!]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/jekyll/update/2015/03/02/welcome-to-jekyll.html" />
-  <id>http://localhost:4000/jekyll/update/2015/03/02/welcome-to-jekyll</id>
-  <published>2015-03-02T13:48:12-08:00</published>
-  <updated>2015-03-02T13:48:12-08:00</updated>
-  <author>
-    <name>FishZhe</name>
-    <uri>http://localhost:4000</uri>
-    <email>fishzhe@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/jekyll/update/2015/03/02/welcome-to-jekyll.html&quot;&gt;Welcome to Jekyll!&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe'' Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/03/02/first-post.html&quot;&gt;This is my first post&lt;/a&gt; was originally published by FishZhe at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fish Zhe's Blog&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
