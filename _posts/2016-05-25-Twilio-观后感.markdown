@@ -1,6 +1,7 @@
 ---
 layout: post
-titile: "Twilio SIGNAL大会观后感"
+title: "Twilio SIGNAL大会观后感"
+chinese: true
 date: 2016-05-22 10:11pm
 ---
 

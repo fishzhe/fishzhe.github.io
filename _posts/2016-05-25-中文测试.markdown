@@ -1,6 +1,7 @@
 ---
 layout: post
-titile: "中文测试"
+title: "中文测试"
+chinese: true
 date: 2016-05-22 09:54pm
 ---
 

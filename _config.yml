@@ -5,6 +5,8 @@ description: Software Engineer. Unix-like system fan. Java. Learner. Runner
 #url: / # the base hostname & protocol for your site
 disqus_shortname: fishzhe-github-io-1
 comments: true
+reading_time: true
+words_per_minute: 180
 
 owner: 
  name: FishZhe
