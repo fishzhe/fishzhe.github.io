@@ -2,6 +2,7 @@
 layout: post
 title: "中文测试"
 chinese: true
+tags: chinese
 date: 2016-05-22 09:54pm
 ---
 

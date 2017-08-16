@@ -2,6 +2,7 @@
 layout: post
 title: "Add Maven Plugin for Aspect"
 date: 2016-05-18 11:33pm
+tags: spring java
 ---
 
 Trying to add spring aop to my S2SH practice project. Somehow, my advice can't be called at all, though my configuration 
