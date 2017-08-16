@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About the Z
 image:
   feature: abstract-5.jpg
