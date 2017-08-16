@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: "Add Maven Plugin for Aspect"
+title: "Add Maven Plugin for Aspect"
 date: 2016-05-18 11:33pm
 ---
 
