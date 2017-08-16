@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>How to set up jekyll in Mac OS &#8211; Fish Zhe's Blog</title>
+<title>2017, 我看到不一样的世界 &#8211; Fish Zhe's Blog</title>
 <meta name="description" content="Software Engineer. Unix-like system fan. Java. Learner. Runner">
 <meta name="keywords" content="">
 
@@ -14,16 +14,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="How to set up jekyll in Mac OS">
+<meta property="og:title" content="2017, 我看到不一样的世界">
 <meta property="og:description" content="Software Engineer. Unix-like system fan. Java. Learner. Runner">
-<meta property="og:url" content="http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html">
+<meta property="og:url" content="http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html">
 <meta property="og:site_name" content="Fish Zhe's Blog">
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html">
+<link rel="canonical" href="http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Fish Zhe's Blog Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -108,64 +108,49 @@
     <header class="header-title">
       <div class="header-title-wrap">
         
-          <h1 class="entry-title"><a href="http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html" rel="bookmark" title="How to set up jekyll in Mac OS">How to set up jekyll in Mac OS</a></h1>
+          <h1 class="entry-title"><a href="http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html" rel="bookmark" title="2017, 我看到不一样的世界">2017, 我看到不一样的世界</a></h1>
         
-        <h2><span class="entry-date date published"><time datetime="2015-03-02T23:09:00-08:00">March 02, 2015</time></span></h2>
+        <h2><span class="entry-date date published"><time datetime="2017-07-28T23:55:00-07:00">July 28, 2017</time></span></h2>
         
         <p class="entry-reading-time">
          <i class="fa fa-clock-o"></i>
 		 
-          Reading time ~1 minute
+          Reading time ~2 minutes
         </p><!-- /.entry-reading-time -->
         
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
-      <p>Bought a new computer recently. And trying to set it up my old blog repository.</p>
+      <p>2017， 我看到不一样的世界。</p>
 
-<p>The instruction on Jekyll website is straight forward. Install with an easy command line and you are done.</p>
+<p>Mind set, 是一个TED演讲中提到的词。演讲里提到宾馆里打扫房间的服务员每天的工作量
+的强度，相当于非常有效的在gym里的锻炼。然而，这些服务员的身材依然各异，并没有个个
+都是纤腰细腿。然后，他们就做了一个实验，对25个服务员讲解了这些工作如何如何有助于保
+持好身材，另外25个则没有。若干月份之后，被告知的25个人的身体状态有了显著的提高，另
+外25个则没有太大变化。</p>
 
-<p>However, when I tried to run this command in my Mac terminal, it failed serval time. The error message is:</p>
+<p>这两组人最明显的不同，就是一组意识到了他们所作的事可以带来的好处，另一组没有。最近
+半年的一些经历，也告诉着我类似的东西，有些东西如果你意识到，跟没有意识到是很不一样
+的。</p>
 
-<p><strong>Operation not permitted - /usr/bin/jekyll</strong></p>
+<p>1个月前，想打架子鼓，听歌的时候会刻意集中到鼓点上，这样一来，原来熟悉的一首歌突然
+就变得有不一样的味道了。《喜欢你》by 邓紫棋就是一个非常容易听出来不同的歌，它的鼓
+点很简单，更方便你抓住鼓点。</p>
 
-<p>This error is caused by Apple’s System Integrity Protection. Old ruby gem didn’t handle it well.</p>
+<p>6个月前，想学摄影，买了相机之后在路上走，就会一直在想这里应该怎么拍会比较好看。虽然
+目前技术并没有太高的提升，但是日常生活里常见的场景，已经看起来不一样，也会不小心发
+现很多好看，好玩儿的细节。</p>
 
-<p><a href="http://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011">Jekyll support document</a> gives us two solutions.</p>
-
-<p>The first one is install jekyll with a more complex command line, which is not working for me.</p>
-
-<p>The second solution do give me a clue about installing luby using homebrew.
- It turns out, homebrew will install a very latest version of ruby.
-  After installing this very latest ruby, I updated my gem with:</p>
-
-<div class="language-shell highlighter-rouge"><pre class="highlight"><code>sudo gem update --system
-</code></pre>
-</div>
-
-<p>This command runs smoothly. But when I tried to run</p>
-
-<div class="language-shell highlighter-rouge"><pre class="highlight"><code>jekyll serve
-</code></pre>
-</div>
-<p>It gives me another error message about missing paginate and pygments.
-Solution to this is pretty straight forward, install them:</p>
-
-<div class="language-shell highlighter-rouge"><pre class="highlight"><code>sudo gem install jekyll-paginate
-sudo gem install pygments.rb
-</code></pre>
-</div>
-
-<p><em>Note:</em> all commands start with sudo will require a super user privilege.</p>
+<p>至此，方才意识到自己的后知后觉，方才意识到以前错过了什么，犯了什么样的错误。</p>
 
       <footer class="entry-meta">
         <span class="entry-tags"></span>
         
         <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url=http://localhost:4000/2015/03/02/how-to-set-up-jekyll.html" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
   </ul>
 </div><!-- /.social-share -->
       </footer>
@@ -196,23 +181,23 @@ sudo gem install pygments.rb
     <div class="read-more">
   
     <div class="read-more-header">
-      <a href="http://localhost:4000/2015/03/02/first-post.html" class="read-more-btn">Read More</a>
+      <a href="http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html" class="read-more-btn">Read More</a>
     </div><!-- /.read-more-header -->
     <div class="read-more-content">
-      <h3><a href="http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html" title="2017, 我看到不一样的世界">2017, 我看到不一样的世界</a></h3>
-      <p>2017， 我看到不一样的世界。Mind set, 是一个TED演讲中提到的词。演讲里提到宾馆里打扫房间的服务员每天的工作量的强度，相当于非常有效的在gym里的锻炼。然而，这些服务员的身材依然各异，并没有个个都是纤腰细腿。然后，他们就做了一个实验，对25个服务员讲解了这些工...&hellip; <a href="http://localhost:4000/2017/07/28/2017-%E6%88%91%E7%9C%8B%E5%88%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C.html">Continue reading</a></p>
+      <h3><a href="http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html" title="Twilio SIGNAL大会观后感">Twilio SIGNAL大会观后感</a></h3>
+      <p>多亏老板开恩，有幸参加了Twilio今年的开发者大会（可惜Google大会太贵了！！）。  Twilio是一个为各个公司提供发送短信，打电话服务API的科技为核心的startup。Twilio的API本身还是很方便的，不用做过多配置，直接就可以拿来编程。 Jeff 是Twi...&hellip; <a href="http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html">Continue reading</a></p>
     </div><!-- /.read-more-content -->
   
   <div class="read-more-list">
     
       <div class="list-item">
-        <h4><a href="http://localhost:4000/2016/05/22/Twilio-%E8%A7%82%E5%90%8E%E6%84%9F.html" title="Twilio SIGNAL大会观后感">Twilio SIGNAL大会观后感</a></h4>
+        <h4><a href="http://localhost:4000/2016/05/22/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95.html" title="中文测试">中文测试</a></h4>
         <span>Published on May 22, 2016</span>
       </div><!-- /.list-item -->
     
       <div class="list-item">
-        <h4><a href="http://localhost:4000/2016/05/22/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95.html" title="中文测试">中文测试</a></h4>
-        <span>Published on May 22, 2016</span>
+        <h4><a href="http://localhost:4000/2016/05/18/maven-spring-aop-config.html" title="Maven Spring Aop Config">Maven Spring Aop Config</a></h4>
+        <span>Published on May 18, 2016</span>
       </div><!-- /.list-item -->
     
   </div><!-- /.read-more-list -->
