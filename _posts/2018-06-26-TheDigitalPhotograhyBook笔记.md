@@ -2,11 +2,11 @@
 layout: post
 title: "The Digital Photography Book 笔记"
 chinese: true
-tags: chinese 摄影
+tags: chinese 摄影 读书笔记
 date: 2018-06-26 11:34pm
 modified: 2018-06-26 11:34pm
 ---
-## 第一章
+### 第一章
 
 本章主要关于如何让照片显得sharp：
 
@@ -15,7 +15,7 @@ modified: 2018-06-26 11:34pm
 3. 如果是在三脚架上就关闭防抖功能。
 4. 找到一个镜头表现最优异的光圈。
 
-## 第二章
+### 第二章
 
 本章虽然标题主要讲的是如何拍好花，但很多技巧也适合于静物拍摄：
 
