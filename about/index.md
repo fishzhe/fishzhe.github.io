@@ -6,18 +6,10 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2017-07-28
+modified: 2023-07-31
 ---
 
-Z short for Zhe. Programmer, runner.
-
-Give me a computer, I will die in peace, LOL.
-
-If you see someone walking like crazy in some random trails, that might
-be me.
-
-If you see someone looking at a dumb tree for 30 minutes with a camera,
-that may also be me.
+Z short for Zhe. Data Engineer. Swimmer. Runner. Snowboarding Rocks!
 
 Not everyone knows his/her destiny, but one can enjoy everything he/she
 went through before find out destiny.
